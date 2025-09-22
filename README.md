@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -339,7 +338,9 @@
                         <div class="timeline-date">2024 - Present</div>
                         <h3 class="card-title"><i class="fas fa-briefcase"></i> Manager Data Scientist [Gen AI Engineer] - Concentrix</h3>
                         <ul>
-                            <li>Generate strategic documentation generator using RAG by processing meeting notes and OONG call data through an LLM model</li>
+                        <li>Generate strategic documentation generator using RAG by processing meeting notes and OONG call data through an LLM model</li>
+                            <li>Executed Full Funnel analysis to map brand association with key dimensions and client
+expenses, methods to drive actionable business insights</li>
                             <li>Developed custom content generation Agent using Langgraph</li>
                             <li>Develop a social listening agent using Langgraph for Linkedin Marketing solution</li>
                             <li>Fine-tuned a Llama model and implemented RAG to develop a Q&A system for tender documents</li>
@@ -353,7 +354,7 @@
                         <div class="timeline-date">2021 - 2024</div>
                         <h3 class="card-title"><i class="fas fa-briefcase"></i> Data Scientist - II - Concentrix</h3>
                         <ul>
-                            <li>Fine-tuning Mistral 78 Base Model with CLOFA on transaction data</li>
+                            <li>Fine-tuning Mistral 78 Base Model with QLORA on transaction data</li>
                             <li>Filed a patent for Transaction classification model using LLM</li>
                             <li>Use Mistral Instruct to extract the entity with RAG</li>
                             <li>Automated the labeling process using GPT model and Langchain</li>
@@ -372,6 +373,30 @@
                         </ul>
                     </div>
                 </div>
+
+              <div class="timeline-item">
+                    <div class="card">
+                        <div class="timeline-date">2019 - 2020</div>
+                        <h3 class="card-title"><i class="fas fa-briefcase"></i> Data Scientist - Unifynd</h3>
+                        <ul>
+                        <li>Build a Churn Prediction model for user onboarding with their drop-off score withan accuracy of 74%.
+<                        <li>Set up an analytical pipeline for Campaign disposition analysis.</li
+                        </ul>
+                    </div>
+                </div>
+
+                  <div class="timeline-item">
+                    <div class="card">
+                        <div class="timeline-date">2019 - 2020</div>
+                        <h3 class="card-title"><i class="fas fa-briefcase"></i> Data Scientist - CRDR Infotech Pvt. Ltd.</h3>
+                        <ul>
+                        <li>Build a Cheque Truncation System using semantic segmentation. Include Signet signature verification
+module which gives an accuracy of 87% and OCR-based MDLSTM forhandwritten.</li>
+                        </ul>
+                    </div>
+                </div>
+
+            
             </div>
         </div>
     </section>
